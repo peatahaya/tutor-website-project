@@ -4,7 +4,7 @@ This is a simple and responsive landing page for a **Tutor** platform, built usi
 
 ## 🌐 Live Demo
 
-[Click here to view the live demo]([#](https://tutor-website-project-mu.vercel.app))  
+[Click here to view the live demo](https://tutor-website-project-mu.vercel.app)  
 (*Replace `#` with your GitHub Pages or live link if available*)
 
 ## 🚀 Features
